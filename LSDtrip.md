@@ -31,5 +31,5 @@
    ![image](https://github.com/user-attachments/assets/40d41013-8b6c-4919-981d-839416f10e22)
   
 - Thực thi file vừa mới patch và nhập password bất kì, ở đây ta sẽ nhập "aaaaa" và ta sẽ truy cập được vào file "LSDtrip.exe".
-- 
+
   ![image](https://github.com/user-attachments/assets/428808ea-c136-42f2-84f3-46270ffd37aa)
