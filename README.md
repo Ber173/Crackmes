@@ -5,3 +5,5 @@ CrackMes là những chương trình được thiết kế đặc biệt để g
 - Disassembler: IDA Free, Ghidra.
 - Hex Editor: HxD, 010 Editor.
 - Scripts hoặc Tool hỗ trợ: Python (pwntools, capstone).
+# 🔗Link
+- Link: https://crackmes.one/faq
