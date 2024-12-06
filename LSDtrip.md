@@ -11,7 +11,7 @@
   
   ![image](https://github.com/user-attachments/assets/032a1c54-94a2-41cd-86fb-8c352fe676d0)
 
-- Để có được password thì mình cần dùng ghidra để phân tích file thực thi "LSDtrip".
+- Để có được password thì mình cần dùng ghidra để phân tích file "LSDtrip.exe".
 - Sau khi phân tích file bằng Ghidra, ta thấy tại hàm FUN_00401000 và kết quả khi thực thi file như trên ta thấy có điểm tương đồng nên ta sẽ bắt đầu phân tích ở hàm này.
   
   ![image](https://github.com/user-attachments/assets/7084a227-ae73-4f3e-b69c-1fa5e2f570ab)
