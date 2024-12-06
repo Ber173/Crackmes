@@ -17,12 +17,12 @@
   ![image](https://github.com/user-attachments/assets/7084a227-ae73-4f3e-b69c-1fa5e2f570ab)
   
 - Ta thấy password ta nhập vào có độ dài bằng 5 và local_c = 0x3b1 (hex) = 945 (dec).
+
+   ![image](https://github.com/user-attachments/assets/0ef6609a-b254-4c04-89b2-745827d50f3e)
 - Ở đây ta có 2 hướng giải:
 - 1. Tìm mật khẩu với độ dài bằng 5 và khiến cho local_c = 945.
   2. Dùng Ghidra và x32dbg để crack file thực thi.
-- Sau đây là hướng xử lí theo cách 2.
-  
-  ![image](https://github.com/user-attachments/assets/0ef6609a-b254-4c04-89b2-745827d50f3e)
+- Sau đây là hướng xử lí theo cách 2:
   
 - Dùng x32dbg để mở file "LSDtrip", rồi dùng "search for >> all module >> string reference" để tìm chuỗi khi nhập đúng password.
   
