@@ -29,7 +29,7 @@
   ![image](https://github.com/user-attachments/assets/28dd2c9f-7fb2-4977-8a62-fea914e24c3d)
   
 - Thay đổi điểm nhảy đến của 004010A3 từ 004010CB thành 004010B8 rồi patch file.
-- 
+
    ![image](https://github.com/user-attachments/assets/40d41013-8b6c-4919-981d-839416f10e22)
   
 - Thực thi file vừa mới patch và nhập password bất kì, ở đây ta sẽ nhập "aaaaa" và ta sẽ truy cập được vào file "LSDtrip.exe".
