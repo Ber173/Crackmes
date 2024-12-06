@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a962429d-87f1-426c-8001-ecb17b34836e)
+
 🔗 https://crackmes.one/crackme/673df8399b533b4c22bd2f1b
 # WRITE-UP
 - Download file về máy, thì ta được file "673df8399b533b4c22bd2f1b".
